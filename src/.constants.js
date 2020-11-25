@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '939080410:AAGUSgktw9xYXeKWZfzAeu8VKd9zgOs1fh0',
+  TOKEN: '1485408536:AAGLv0ejOrX0bwdNgP8jwBwThiXVhvNpVFc',
   ARIA_SECRET: 'pronoob',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@AnonymousfilesUploader_bot"
+    NAME: "@Itsmymega_bot"
   },
   IS_TEAM_DRIVE: true,
   INDEX_DOMAIN: "https://fucku.evilbros.me/" // add an extra / at the end, for example https://www.gdindex.url/
